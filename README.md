@@ -1,7 +1,7 @@
 # Royal Havaianas
 
 ## Integrantes da dupla
-- Nome completo do integrante 1
+- willy mendes cardoso 
 - Nome completo do integrante 2
 
 ## Descrição do caso escolhido
