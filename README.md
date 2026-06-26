@@ -52,5 +52,5 @@ Foram utilizados: navbar simples no cabeçalho, sistema de grid (`container`, `r
 - Link do site publicado: _(adicionar após ativar o GitHub Pages)_
 
 ## Contribuição dos integrantes
-- **Integrante 1:** diagnóstico da necessidade, estrutura HTML e organização do conteúdo.
-- **Integrante 2:** estilização CSS, funcionalidade JavaScript, testes e publicação.
+- **Integrante 1:willy mendes cardoso ** diagnóstico da necessidade, estrutura HTML e organização do conteúdo,
+  estilização CSS, funcionalidade JavaScript, testes e publicação.
